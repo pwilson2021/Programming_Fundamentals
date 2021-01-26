@@ -1,0 +1,2 @@
+1. To compile for gdb debugger, type this g++ -g file_name, after open the out file, i.e gdb ./a.out
+2. to set a breakpoint type in `break line_number` 
