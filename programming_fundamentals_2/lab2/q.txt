@@ -1,0 +1,6 @@
+1. (i < limit -1 && (c=getchar()) != '\n') && c!= 'A')
+ - (!(i < limit-1) || !(c=getchar()) != '\n') || !(c != 'A')
+
+2. x & y = 0, this is because there are compared using the bitwise AND, the result is 0.
+-  x && y = 1, this is comparing using the logical AND, the comparison btn two numbers is true.
+
